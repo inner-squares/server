@@ -50,7 +50,7 @@ This endpoint is for solving a harvest.
 
 ### example request
 
-`GET /harvest?seed_id=0&hybrid_id=0&solution=[17:19]&name=John%20von%20Neumann`
+`POST /harvest?seed_id=0&hybrid_id=0&solution=[17:19]&name=John%20von%20Neumann`
 
 response:
 
